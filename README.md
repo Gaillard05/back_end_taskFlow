@@ -1,4 +1,4 @@
-## Project Setup
+## Project Setup ##
 
 ```sh
 npm install
@@ -15,17 +15,16 @@ npm run dev
 ```sh
 npm install @types/cors
 ```
-
-### Install body parser ###
+## Install typescript ##
 
 ```sh
-npm install @types/body-parser
+npm install -g typescript
 ```
 
-### Test the components ###
+### Install test the components, body parser and essential packages ###
 
 ```sh
-npm i --save-dev @types/jest
+npm install -D ts-node-dev jest ts-jest prettier @types/express @types/node @types/jest @types/body-parser
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
