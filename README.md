@@ -13,7 +13,7 @@ npm run dev
 ### Allow requests from Vue.js front-end ###
 
 ```sh
-npm install cors
+npm install @types/cors
 ```
 
 ### Install body parser ###
